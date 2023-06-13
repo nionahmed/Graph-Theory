@@ -3,7 +3,7 @@ Bismillahir Rahmanir Rahim
 Author: Md Nurul Amin
 Information and Communication Engineering, NSTU
 */
-//
+///https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_11_B
 #include <bits/stdc++.h>
 using namespace std;
 typedef long long ll;

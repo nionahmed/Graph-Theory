@@ -5,6 +5,7 @@ Information and Communication Engineering, NSTU
 */
 //
 ///converting graph representation from list to matrix.
+///https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_11_A
 #include <bits/stdc++.h>
 using namespace std;
 typedef long long ll;

@@ -4,6 +4,7 @@ Author: Md Nurul Amin
 Information and Communication Engineering, NSTU
 */
 ///have to find number of connected points by vertically, horizontally and diagonally adjacency.
+///https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=513
 #include <bits/stdc++.h>
 using namespace std;
 typedef long long ll;
